@@ -101,9 +101,13 @@ body {
   }
 }
 #newArrival {
-  width: 90%;
+  width: 100vw;
   margin: auto;
   margin-top: 3rem;
+}
+
+#newArrival .container {
+  width: 90% !important;
 }
 
 #newArrival .row {
@@ -156,6 +160,14 @@ body {
 @media (max-width: 768px) {
   #newArrival .row {
     justify-content: center;
+    gap: 1rem;
+  }
+}
+@media (max-width: 425px) {
+  #newArrival {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 95%;
   }
 }
 #about {
