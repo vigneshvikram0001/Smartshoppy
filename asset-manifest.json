@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Smartshoppy/static/css/main.5d8255b2.css",
+    "main.js": "/Smartshoppy/static/js/main.afcdb3f8.js",
+    "static/media/car1.jpg": "/Smartshoppy/static/media/car1.63178325e574780febe0.jpg",
+    "static/media/car3.jpg": "/Smartshoppy/static/media/car3.53ba883f218ddd539b65.jpg",
+    "static/media/car2.jpg": "/Smartshoppy/static/media/car2.1d55f2dad9565f4e84a6.jpg",
+    "static/media/cat5.jpg": "/Smartshoppy/static/media/cat5.c8b328cee35fa1bca2e1.jpg",
+    "static/media/show1.jpg": "/Smartshoppy/static/media/show1.3859e9759c4e0f68e32a.jpg",
+    "static/media/card1.png": "/Smartshoppy/static/media/card1.9213220071b1dcc9d777.png",
+    "static/media/about-1.jpg": "/Smartshoppy/static/media/about-1.12f231270ec61519e1f4.jpg",
+    "static/media/about-2.jpg": "/Smartshoppy/static/media/about-2.f8410c3c55d2645df933.jpg",
+    "static/media/show3.jpg": "/Smartshoppy/static/media/show3.f3cd6b458c0e9400ffee.jpg",
+    "static/media/cat7.jpg": "/Smartshoppy/static/media/cat7.d0dce07b1984d06fac0c.jpg",
+    "static/media/about-3.jpg": "/Smartshoppy/static/media/about-3.d57dad9b926084fb710a.jpg",
+    "static/media/cat4.jpg": "/Smartshoppy/static/media/cat4.c8ce34a57bcbf72aa694.jpg",
+    "static/media/show4.jpg": "/Smartshoppy/static/media/show4.e1c95c094d76c4acfe4b.jpg",
+    "static/media/cat1.jpg": "/Smartshoppy/static/media/cat1.28cd9f860977c3c8ea54.jpg",
+    "static/media/card2.png": "/Smartshoppy/static/media/card2.cd3c83a68eaba5253d64.png",
+    "static/media/cat6.jpg": "/Smartshoppy/static/media/cat6.60f9fc5fc8489f616605.jpg",
+    "static/media/two.jpg": "/Smartshoppy/static/media/two.49ef694e0571699eaf68.jpg",
+    "static/media/cat2.jpg": "/Smartshoppy/static/media/cat2.87175210973b459d641e.jpg",
+    "static/media/cat3.jpg": "/Smartshoppy/static/media/cat3.51aa18bceeb804a2f6f3.jpg",
+    "static/media/show2.jpg": "/Smartshoppy/static/media/show2.165993c3e5c7a7ad1af9.jpg",
+    "static/media/three.jpg": "/Smartshoppy/static/media/three.b477e922c939b74703d0.jpg",
+    "static/media/one.jpg": "/Smartshoppy/static/media/one.14427ebf9c99fc057e20.jpg",
+    "static/media/four.jpg": "/Smartshoppy/static/media/four.e223520d0e8e41fba3f4.jpg",
+    "index.html": "/Smartshoppy/index.html",
+    "main.5d8255b2.css.map": "/Smartshoppy/static/css/main.5d8255b2.css.map",
+    "main.afcdb3f8.js.map": "/Smartshoppy/static/js/main.afcdb3f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8255b2.css",
+    "static/js/main.afcdb3f8.js"
+  ]
+}
