@@ -1,5 +1,5 @@
-https://github.com/vigneshvikram0001/Smartshoppy/assets/118509275/2197e7e5-d310-49b2-abfc-34db987ba1b6
-https://github.com/vigneshvikram0001/Smartshoppy/assets/118509275/5c0c5c73-566c-4566-9586-feee524bfd29
+![Web capture_2-10-2023_13159_vigneshvikram0001 github io](https://github.com/vigneshvikram0001/Smartshoppy/assets/118509275/2c806baf-bc3e-453e-afe5-5f81e4b5a667)
+
 
 # Getting Started with Create React App
 
