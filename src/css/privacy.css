@@ -1,0 +1,42 @@
+#privacy {
+  padding-top: 5rem;
+  width: 80%;
+  padding-left: 0 !important;
+  margin: auto;
+  margin-bottom: 4rem !important;
+}
+
+#privacy h2 {
+  width: 100%;
+  color: #000;
+  text-align: center;
+}
+
+#privacy h4 {
+  color: #000;
+}
+
+#privacy .privacy-icon {
+  color: #00cf8a;
+}
+
+#privacy p {
+  font-size: 1.1rem;
+  font-family: var(--f2);
+  color: rgb(120, 120, 120);
+}
+
+@media (max-width: 768px) {
+  #privacy {
+    padding: 5rem 15px 0 !important;
+    width: 100%;
+    margin: auto;
+  }
+  #privacy h4 {
+    color: #000;
+    font-size: 1.4rem !important;
+  }
+  #privacy p {
+    font-size: 1rem;
+  }
+}/*# sourceMappingURL=privacy.css.map */

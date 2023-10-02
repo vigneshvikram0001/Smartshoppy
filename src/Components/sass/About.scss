@@ -1,0 +1,111 @@
+#about {
+  width: 90%;
+  margin: auto;
+  padding: 7rem 0 5rem;
+}
+#about .about-row-1 {
+  margin-top: 1rem;
+}
+.about-gallery,
+.about-content {
+  width: 50%;
+}
+#about .about-gallery .row {
+  width: 50%;
+}
+#about .about-gallery .row .col-12 {
+  height: 250px;
+  border-radius: 30px !important;
+}
+#about .col-12 img {
+  border-radius: 10px !important;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.about-content .para {
+  color: grey;
+  font-size: 1rem;
+}
+.about-content .btn {
+  background-color: #fff000;
+  color: #000;
+  border: 2px solid transparent;
+  transition: all 0.35s ease;
+}
+.about-content .btn:hover {
+  background-color: transparent;
+  color: #000;
+  border: 2px solid #000;
+  letter-spacing: 1px;
+}
+
+@media (max-width: 768px) {
+  #about {
+    width: 100%;
+    margin: auto;
+    padding: 4rem 0 5rem !important;
+  }
+  #about .about-row-1 {
+    margin-top: 0.5rem;
+    flex-wrap: wrap !important;
+    flex-direction: column-reverse;
+  }
+  .about-content,
+  .about-gallery {
+    width: 100%;
+  }
+}
+
+// catergories
+.categories {
+  padding-top: 6rem;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5rem;
+}
+.sub-head {
+  color: #000;
+  font-style: italic;
+  position: relative;
+}
+.h2-line {
+  position: absolute;
+  height: 4px;
+  width: 100px;
+  border-radius: 20px;
+  right: 41%;
+  bottom: -4px;
+  background: linear-gradient(120deg, #000000, #4848486e, #ffffff00);
+  transform: rotate(-3deg);
+}
+.categories .row .col-md-3 > img {
+  box-shadow: 4px 4px 10px 0.5px #00000052;
+}
+.cloth-btn {
+  margin-top: 1.5rem;
+  background-color: #fff000;
+  color: #000;
+  font-size: 1rem;
+  text-transform: capitalize;
+  border: 2px solid transparent;
+  box-shadow: 4px 4px 10px 0.5px #00000052;
+  transition: all 0.35s ease;
+}
+.cloth-btn:hover,
+.cloth-btn:focus {
+  border: 2px solid #000000;
+  color: #000;
+  letter-spacing: 1px;
+}
+@media (max-width: 425px) {
+  .cloth-btn {
+    font-size: 0.7rem;
+    padding: 5px 15px;
+  }
+  .cloth-btn:hover,
+  .cloth-btn:focus {
+    border: 2px solid #fff000;
+    color: #000;
+  }
+}

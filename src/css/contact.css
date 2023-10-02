@@ -1,0 +1,42 @@
+#contact {
+  padding-top: 5rem;
+  width: 80%;
+  margin: auto;
+  color: #000;
+}
+
+#contact .line {
+  margin-bottom: 5rem !important;
+  width: 90%;
+  height: 2px;
+  border-radius: 20px;
+  margin: auto;
+  background-color: #868686;
+}
+
+.contact-1 .row .col-12 {
+  height: 400px;
+}
+
+.contact-1 .row .col-12 iframe {
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 500px) {
+  .con {
+    flex-direction: column;
+  }
+  .con > .row {
+    margin-top: 2rem !important;
+  }
+  #contact {
+    padding-top: 5rem;
+    width: 90%;
+    margin: auto;
+    color: #000;
+  }
+  .contact-1 .fw-bold {
+    font-size: 1.5rem;
+  }
+}/*# sourceMappingURL=contact.css.map */
